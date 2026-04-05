@@ -1,6 +1,14 @@
-# Coffee\&Code City Chats
+# Coffee&Code City Chats
 
-Список городских чатов сообщества [Coffee\&Code](https://t.me/coffeecode), отсортированный по алфавиту.
+Список чатов сообщества [Coffee&Code](https://t.me/coffeecode).
+
+## Общий чат
+
+| Чат | Ссылка |
+|-----|--------|
+| Coffee&Code | IT | Android | iOS | Design | Frontend | Backend | DevOps | QA | [Присоединиться](https://t.me/ChatCoffeeCode) |
+
+## Городские чаты
 
 | Город | Чат |
 |-------|-----|
@@ -104,4 +112,4 @@
 | Ярославль | [Присоединиться](https://t.me/coffeeCode_yaroslavl) |
 
 ---
-*Обновлено: 05.04.2026 20:22 (MSK) | Всего городов: 98*
+*Обновлено: 05.04.2026 20:23 (MSK) | Всего городов: 98*
