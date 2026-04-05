@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jpg" alt="Coffee&Code" width="100%">
+</p>
+
 # Coffee&Code — Городские чаты / City Chats
 
 **Coffee&Code** — международное IT-сообщество, объединяющее разработчиков, дизайнеров и всех айтишников по всему миру.
