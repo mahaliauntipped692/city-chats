@@ -141,4 +141,4 @@ Can't find your city? Reach out and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 05.04.2026 20:45 (MSK) | Всего городов / Total cities: 98*
+*Обновлено / Updated: 05.04.2026 20:47 (MSK) | Всего городов / Total cities: 98*
