@@ -55,7 +55,8 @@ Find your city and join the local chat!
 | Брюссель / Brussels | [Присоединиться / Join](https://t.me/+9vUjU_B2W0E4ODBi) |
 | Будва / Budva | [Присоединиться / Join](https://t.me/+UVeE8Y4n0Q82Njdi) |
 | Бухарест / Bucharest | [Присоединиться / Join](https://t.me/+uUh5hWcn3M1jMTI6) |
-| Буэнос-Айрес / Buenos Aires | [Присоединиться / Join](https://t.me/coffeeCode_buenosAires) |
+| Буэнос-Айрес / Buenos Aires | [Присоединиться / Join](https://t.me/+nEKBc2qUCxtkY2Ey) |
+| Валенсия / Valencia | [Присоединиться / Join](https://t.me/+uI7sdI4opYUxNThi) |
 | Варшава / Warsaw | [Присоединиться / Join](https://t.me/+b3iQDzOnBaIwM2M6) |
 | Вена / Vienna | [Присоединиться / Join](https://t.me/+mUzxSgCpwMsyM2M6) |
 | Вильнюс / Vilnius | [Присоединиться / Join](https://t.me/+kYZJRPzXYjljYTcy) |
@@ -145,4 +146,4 @@ Can't find your city? Reach out and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 05.04.2026 20:50 (MSK) | Всего городов / Total cities: 98*
+*Обновлено / Updated: 05.04.2026 23:01 (MSK) | Всего городов / Total cities: 99*
