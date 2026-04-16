@@ -111,6 +111,7 @@ Find your city and join the local chat!
 | Ростов-на-Дону / Rostov-on-Don | [Присоединиться / Join](https://t.me/coffeecode_rostov) |
 | Рязань / Ryazan | [Присоединиться / Join](https://t.me/+C7cUqPePMZgwMDUy) |
 | Самара / Samara | [Присоединиться / Join](https://t.me/+EguV3FTF-Sg5YjZi) |
+| Саратов / Saratov | [Присоединиться / Join](https://t.me/+JJHbC2JcyBxjNjEy) |
 | Санкт-Петербург / Saint Petersburg | [Присоединиться / Join](https://t.me/coffee_code_spb) |
 | Симферополь / Simferopol | [Присоединиться / Join](https://t.me/+AM7axoqnybY0Zjgy) |
 | Смоленск / Smolensk | [Присоединиться / Join](https://t.me/+QTkz6COAo_Y2NjVi) |
@@ -146,4 +147,4 @@ Can't find your city? Reach out and we'll create a chat!
 
 ---
 
-*Обновлено / Updated: 05.04.2026 23:01 (MSK) | Всего городов / Total cities: 99*
+*Обновлено / Updated: 16.04.2026 (MSK) | Всего городов / Total cities: 101*
