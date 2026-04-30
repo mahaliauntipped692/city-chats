@@ -32,7 +32,6 @@ Find your city and join the local chat!
 
 | Город / City | Чат / Chat |
 |:-------------|:-----------|
-| Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
 | Адлер / Adler | [Присоединиться / Join](https://t.me/coffeecodeadler) |
 | Аланья / Alanya | [Присоединиться / Join](https://t.me/coffeeCodeAlanya) |
 | Алматы / Almaty | [Присоединиться / Join](https://t.me/CoffeeCodeAlmaty) |
@@ -88,6 +87,7 @@ Find your city and join the local chat!
 | Лондон / London | [Присоединиться / Join](https://t.me/coffeecode_london_ios) |
 | Мадрид / Madrid | [Присоединиться / Join](https://t.me/+QEq2sgYeHeUzOWFi) |
 | Малага / Malaga | [Присоединиться / Join](https://t.me/+26xtXo0FMJo1OTky) |
+| Майами / Miami | [Присоединиться / Join](https://t.me/+HTvrthTNYO1kN2Y6) |
 | Махачкала / Makhachkala | [Присоединиться / Join](https://t.me/+A2MXAw30j1FkY2Ji) |
 | Мерсин / Mersin | [Присоединиться / Join](https://t.me/coffeeCode_mersin) |
 | Минск / Minsk | [Присоединиться / Join](https://t.me/coffeeCodeMinskMobile) |
